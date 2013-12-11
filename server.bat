@@ -1,0 +1,1 @@
+mining_proxy.exe -pa scrypt -o world.wemineltc.com -p 3335

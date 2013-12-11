@@ -1,0 +1,1 @@
+minerd -a scrypt -r 1 -t 4 -s 6 -o http://127.0.0.1:8332 -O zwjlpeng5888.4:4 
